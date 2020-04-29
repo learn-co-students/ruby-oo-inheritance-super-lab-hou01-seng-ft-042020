@@ -7,12 +7,12 @@ class ChattyStudent < Student
 
     def raise_hand
         10.times{super}
+
         # i = 0
         # while i < 10 do
-        #     super 
-        #     i++
+        #    super
+        #    i += 1
         # end
-
     end
 
 end
